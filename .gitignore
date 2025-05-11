@@ -1,0 +1,49 @@
+# Archivos de construcción (build)
+build/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Archivos de configuración de Qt Creator
+*.user
+*.autosave
+*.pro.user
+*.qbs.user
+*.qmlproject.user
+*.creator.*
+*.creator
+
+# Archivos de CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Archivos de respaldo y temporales
+*~
+*.swp
+*.bak
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Word (NO deben subirse)
+*.doc
+*.docx
+
+# Archivos de LaTeX (si se usan)
+*.aux
+*.toc
+*.lof
+*.lot
+*.fls
+*.out
+*.fdb_latexmk
+*.synctex.gz

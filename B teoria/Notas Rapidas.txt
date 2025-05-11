@@ -1,0 +1,28 @@
+Explicacion del Logica de Poliformismo(El primer link para entender el concepto mas que nada)
+https://www.youtube.com/watch?v=bblFTvuk4pY
+https://www.youtube.com/watch?v=2jX22t4Bh4k
+
+Que es Qt
+https://wiki.qt.io/About_Qt/es
+
+Navegar Por La Aplicacion de Qt
+https://www.youtube.com/watch?v=R2qdCk1AJUs&list=PLFB1CB34F174FAD08&index=3
+
+Layout en Qt
+https://www.youtube.com/watch?v=6vdV-vQcffQ&list=PLFB1CB34F174FAD08&index=6
+
+Señales y Slots(Primer link usa un metodo un poco distinto del que vimos pero sigue siendo valido)
+https://www.youtube.com/watch?v=AkWCLhRsOp4 
+https://www.youtube.com/watch?v=KvId3VdUomI
+https://pythones.net/objetos-senales-ranuras-pyqt5/
+https://wiki.qt.io/How_to_Use_Signals_and_Slots/es
+
+Botones en Qt
+https://wiki.qt.io/How_to_Use_QPushButton/es#Como_usar_QPushButton
+https://wiki.qt.io/Qt_Buttons/es
+
+Label en Qt(Primer link a la documentacion de QLabel)
+https://doc.qt.io/qt-6/qlabel.html
+
+Archivos Ui(A modo Informativo)
+https://filext.com/es/extension-de-archivo/UI#:~:text=Qu%C3%A9%20es%20un%20archivo%20UI,interfaz%20gr%C3%A1fica%20de%20usuario%20Qt.
